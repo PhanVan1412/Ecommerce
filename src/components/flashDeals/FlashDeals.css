@@ -1,0 +1,12 @@
+.heading {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.heading h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+.flash .product {
+    margin: 10px;
+}
